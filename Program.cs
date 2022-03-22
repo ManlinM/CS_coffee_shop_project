@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //Name: Manlin Mao
-//Purpose:assignment 1, manage coffee shops
+//Purpose:manage coffee shops
 namespace assignment1
 {
     class Program
